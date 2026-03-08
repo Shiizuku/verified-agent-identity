@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'shizuku'
         required: true
-        default: 'uangdroid'
+        default: 'shizuku'
       agent_description:
         description: 'shizuku'
         required: true
